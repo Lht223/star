@@ -1,0 +1,54 @@
+2018-04-26T00:24:42.336Z - normal: Load ~/.CocosCreator/settings.json
+2018-04-26T00:24:42.351Z - normal: checking language setting...
+2018-04-26T00:24:42.351Z - normal: Language: zh
+2018-04-26T00:24:48.041Z - success: protocol editor-framework registered
+2018-04-26T00:24:48.041Z - success: protocol app registered
+2018-04-26T00:24:48.041Z - success: protocol theme registered
+2018-04-26T00:24:48.041Z - success: protocol packages registered
+2018-04-26T00:24:48.057Z - success: protocol unpack registerred
+2018-04-26T00:24:48.057Z - success: protocol disable-commonjs registerred
+2018-04-26T00:24:48.057Z - normal: failed to connect login server... skipping login
+2018-04-26T00:24:48.072Z - normal: Check project E:\作业\游戏架构\start_project
+2018-04-26T00:24:48.072Z - normal: Initializing Cocos2d
+2018-04-26T00:24:49.322Z - normal: Initializing Asset Database
+2018-04-26T00:24:49.541Z - success: protocol uuid registerred
+2018-04-26T00:24:49.541Z - success: protocol db registerred
+2018-04-26T00:24:49.541Z - success: protocol thumbnail registerred
+2018-04-26T00:24:49.541Z - normal: Loading editor/builtin packages
+2018-04-26T00:24:49.651Z - success: anysdk loaded
+2018-04-26T00:24:50.307Z - success: assets loaded
+2018-04-26T00:24:50.322Z - success: builder loaded
+2018-04-26T00:24:50.338Z - success: cocos-analytics loaded
+2018-04-26T00:24:50.354Z - success: console loaded
+2018-04-26T00:24:50.525Z - success: fb-instant-games loaded
+2018-04-26T00:24:50.541Z - success: hierarchy loaded
+2018-04-26T00:24:50.541Z - success: inspector loaded
+2018-04-26T00:24:50.557Z - success: keystore loaded
+2018-04-26T00:24:50.572Z - success: node-library loaded
+2018-04-26T00:24:50.572Z - success: package-asset loaded
+2018-04-26T00:24:50.588Z - success: preferences loaded
+2018-04-26T00:24:50.588Z - success: project-exporter loaded
+2018-04-26T00:24:50.682Z - success: project-importer loaded
+2018-04-26T00:24:50.682Z - success: project-settings loaded
+2018-04-26T00:24:50.697Z - success: ui-kit loaded
+2018-04-26T00:24:50.713Z - success: ui-grid loaded
+2018-04-26T00:24:50.729Z - success: scene loaded
+2018-04-26T00:24:50.744Z - success: sprite-editor loaded
+2018-04-26T00:24:50.760Z - success: store loaded
+2018-04-26T00:24:50.775Z - success: timeline loaded
+2018-04-26T00:24:50.775Z - normal: Loading builtin packages
+2018-04-26T00:24:50.792Z - success: asset-db-debugger loaded
+2018-04-26T00:24:50.792Z - success: code-editor loaded
+2018-04-26T00:24:50.792Z - success: color-picker loaded
+2018-04-26T00:24:50.807Z - success: package-manager loaded
+2018-04-26T00:24:50.838Z - success: sdkbox loaded
+2018-04-26T00:24:50.854Z - success: tester loaded
+2018-04-26T00:24:50.854Z - success: ui-kit-preview-extra loaded
+2018-04-26T00:24:50.854Z - success: ui-kit-preview loaded
+2018-04-26T00:24:50.869Z - success: ui-tree loaded
+2018-04-26T00:24:57.088Z - normal: Initializing project E:\作业\游戏架构\start_project
+2018-04-26T00:24:57.104Z - normal: Loading packages
+2018-04-26T00:24:57.120Z - normal: Watching packages
+2018-04-26T00:24:57.167Z - normal: Run Application
+2018-04-26T00:25:01.370Z - success: preview server running at http://localhost:7456
+2018-04-26T00:25:23.088Z - normal: 1.9.0
